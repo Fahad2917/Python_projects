@@ -1,0 +1,30 @@
+{
+    "player": {
+        "name": "kobi",
+        "hp": 70,
+        "attack_power": 10,
+        "inventory": [
+            "Iron Shield",
+            "Strength Elixir",
+            "Strength Elixir",
+            "Strength Elixir",
+            "Healing Potion"
+        ],
+        "gold": 36
+    },
+    "dungeon": {
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "current_room_index": 0
+    }
+}
